@@ -1,14 +1,15 @@
 📊 Business Data Analysis Repository
+
 📌 Overview
 
 This repository contains data analysis projects focused on solving real-world business problems. Each project includes:
 
-Data exploration and cleaning
+1. Data exploration and cleaning
 
-Business problem statement
+2. Business problem statement
 
-Analytical approach & methodology
+3. Analytical approach & methodology
 
-Insights and recommendations
+4. Insights and recommendations
 
 The goal is to provide actionable insights that support decision-making.
